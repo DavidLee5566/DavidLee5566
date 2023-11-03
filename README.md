@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidLee5566
+- 👋 Hi, I’m David Lee
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning data Power BI
 - 💞️ I’m looking to collaborate on ...
